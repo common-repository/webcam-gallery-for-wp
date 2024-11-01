@@ -1,0 +1,27 @@
+#image_wrap {
+    /* dimensions */
+    width:636px;
+    padding:15px 0;
+
+    /* centered */
+    text-align:center;
+	margin: 0 auto;
+
+    /* some "skinning" */
+    /*background-color:#efefef;
+    border:2px solid #fff;*/
+    /*outline:1px solid #ddd;*/
+    -moz-ouline-radius:4px;
+}
+
+   
+
+#divimg {
+    background-color: #fff;
+
+    float: left;
+    height: 75px;
+    margin: 16px 5px 20px 21px;
+    
+    width: 100px;
+}
